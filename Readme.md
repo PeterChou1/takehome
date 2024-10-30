@@ -1,4 +1,4 @@
-# Take Basic CRUD API
+# Take Home Basic CRUD APP
 
 Basic CRUD app with NodeJS express backend and React Frontend
 
